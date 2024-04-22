@@ -37,9 +37,11 @@
 - 🤖 Machine Learning with Python
 - 🎮 Game development in Unity
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+#### 🚀 Check out my <a href="https://github.com/fulopmilan?tab=repositories">projects!<a/>
 
-<p align="center">
-  <img src="https://github.com/fulopmilan/ghub-stats/raw/master/generated/languages.svg" alt="Languages">
-</p>
+---
+
+<!-- GitHub Stats Section -->
+### 📊 GitHub Stats
+
+<img src="https://github.com/fulopmilan/ghub-stats/raw/master/generated/languages.svg" alt="Languages">
