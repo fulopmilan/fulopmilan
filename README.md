@@ -38,10 +38,3 @@
 - 🎮 Game development in Unity
 
 #### 🚀 Check out my <a href="https://github.com/fulopmilan?tab=repositories">projects!<a/>
-
----
-
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
-
-<img src="https://github.com/fulopmilan/ghub-stats/raw/master/generated/languages.svg" alt="Languages">
