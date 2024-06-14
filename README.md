@@ -6,9 +6,9 @@
 <!-- Bio Section -->
 ### 👨‍💻 About Me
 - 📖 Studying in Hungary
-- 🤖 Diving into Machine Learning
 - 📚 Somewhat enjoys YA books
 - 🎶 Music lover
+- 💪 Gym
 
 ### 👨‍💻 My development experiences
 - 💻 Web development with MERN
@@ -16,4 +16,4 @@
 - 🤖 Machine Learning with Python
 - 🎮 Game development in Unity
 
-#### 🚀 Check out my <a href="https://github.com/fulopmilan?tab=repositories">projects<a/>, and also my <a href="https://www.kaggle.com/fulopmilan">Kaggle<a/> profile!
+#### 🚀 Check out my <a href="https://github.com/fulopmilan?tab=repositories">projects<a/>, and also my <a href="https://darkliongames.itch.io/">Itch.io<a/> profile!
